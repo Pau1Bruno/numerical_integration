@@ -1,0 +1,17 @@
+bin
+build
+
+.gitattributes
+.gitignore.save
+
+.vscode
+
+.idea
+
+*.txt
+*.png
+*.o
+*.obj
+*.exe
+*.out
+*.pdf
